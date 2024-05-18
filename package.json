@@ -1,6 +1,6 @@
 {
   "name": "@soliditx/solidity-fakeai",
-  "version": "1.0.82",
+  "version": "1.0.83",
   "description": "Description for solidity-fakeai",
   "main": "src/index.js",
   "scripts": {
